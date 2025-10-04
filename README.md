@@ -21,7 +21,7 @@ A **Python Chess Game** built using **Pygame** and **python-chess**, featuring a
 
 ## 🖥️ Screenshot
 
-![Chess Screenshot](screenshot.png)  
+![Chess Screenshot](Screenshot.jpg)  
 *(Add a screenshot named `screenshot.png` in your repo)*
 
 ---
